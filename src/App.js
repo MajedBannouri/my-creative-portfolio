@@ -1,6 +1,5 @@
-import './App.css';
 // import pages
-import AboutUs from './components/pages/AboutUs'
+import AboutUs from './pages/AboutUs'
 function App() {
   return (
     <div >
